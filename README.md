@@ -18,6 +18,7 @@ You need clone and install [bus-stop-locator-api](https://github.com/vondich/bus
  1. Use a time picker for Register Bus Form instead of a plain text field
  2. It'd be better to add a map for the nearest bus stop
  3. There must be a better way to store auth tokens in a React.js app
+ 4. Add tests
 
 **Usage**
 1. Login using the following credentials:
